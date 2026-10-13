@@ -96,6 +96,10 @@ As a reference point, TypeSafe's Jev model (`jev-1.13.0`) was run on all 1000 re
 
 Angry and satisfied were never swapped. Most disagreements sit on the line between neutral and mildly satisfied. Mood agreement by writer at 0.7: Claude 93%, Grok 88%, Gemini 82%, Mistral 80%, ChatGPT 79%. These are agreement figures between two raters, not accuracy.
 
+## Author
+
+Made by [András Horváth](https://andrashorvath.dev), the author of [Vibefilter](https://vibefilter.dev).
+
 ## License
 
 The dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please see the note on use above.
